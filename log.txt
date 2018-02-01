@@ -1,0 +1,160 @@
+21:00:24.024 INFO  
+              Dated: Sun Jan 28 18:28:52 +0000 2018
+              Tweet: mattis enim ut tellus elementum sagittis vitae et leo duis ut
+           
+21:00:24.024 INFO  
+              Dated: Sun Jan 28 18:28:35 +0000 2018
+              Tweet: nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit amet risus nullam eget felis eget nunc lobortis mattis
+           
+21:00:24.024 INFO  
+              Dated: Sun Jan 28 18:27:37 +0000 2018
+              Tweet: orci nulla pellentesque dignissim enim sit amet venenatis urna cursus eget nunc scelerisque viverra mauris in aliqu… https://t.co/dPpbzWpzjT
+           
+21:00:24.024 INFO  
+              Dated: Sun Jan 28 18:26:26 +0000 2018
+              Tweet: mauris augue neque gravida in fermentum et sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt
+           
+21:00:24.024 INFO  
+              Dated: Sun Jan 28 17:54:20 +0000 2018
+              Tweet: mauris pharetra et ultrices neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae
+           
+21:00:24.024 INFO  
+              Dated: Sun Jan 28 17:54:09 +0000 2018
+              Tweet: in nisl nisi scelerisque eu ultrices vitae auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis
+           
+21:00:24.024 INFO  
+              Dated: Sun Jan 28 17:53:24 +0000 2018
+              Tweet: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium
+           
+21:00:24.024 INFO  
+              Dated: Sun Jan 28 17:53:04 +0000 2018
+              Tweet: At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
+           
+21:00:24.024 INFO  
+              Dated: Sun Jan 28 17:51:42 +0000 2018
+              Tweet: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque molestie turpis sit amet ullamcorper tincidunt.
+           
+21:00:24.024 INFO  
+              Dated: Sun Jan 28 17:49:15 +0000 2018
+              Tweet: Slack. Terrible name.
+           
+21:01:09.499 INFO  
+              Dated: Sun Jan 28 18:28:52 +0000 2018
+              Tweet: mattis enim ut tellus elementum sagittis vitae et leo duis ut
+           
+21:01:09.499 INFO  
+              Dated: Sun Jan 28 18:28:35 +0000 2018
+              Tweet: nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit amet risus nullam eget felis eget nunc lobortis mattis
+           
+21:01:09.499 INFO  
+              Dated: Sun Jan 28 18:27:37 +0000 2018
+              Tweet: orci nulla pellentesque dignissim enim sit amet venenatis urna cursus eget nunc scelerisque viverra mauris in aliqu… https://t.co/dPpbzWpzjT
+           
+21:01:09.499 INFO  
+              Dated: Sun Jan 28 18:26:26 +0000 2018
+              Tweet: mauris augue neque gravida in fermentum et sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt
+           
+21:01:09.499 INFO  
+              Dated: Sun Jan 28 17:54:20 +0000 2018
+              Tweet: mauris pharetra et ultrices neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae
+           
+21:01:09.499 INFO  
+              Dated: Sun Jan 28 17:54:09 +0000 2018
+              Tweet: in nisl nisi scelerisque eu ultrices vitae auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis
+           
+21:01:09.499 INFO  
+              Dated: Sun Jan 28 17:53:24 +0000 2018
+              Tweet: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium
+           
+21:01:09.499 INFO  
+              Dated: Sun Jan 28 17:53:04 +0000 2018
+              Tweet: At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
+           
+21:01:09.499 INFO  
+              Dated: Sun Jan 28 17:51:42 +0000 2018
+              Tweet: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque molestie turpis sit amet ullamcorper tincidunt.
+           
+21:01:09.499 INFO  
+              Dated: Sun Jan 28 17:49:15 +0000 2018
+              Tweet: Slack. Terrible name.
+           
+21:01:50.196 INFO  
+              Tweet: mattis enim ut tellus elementum sagittis vitae et leo duis ut
+              Tweeted on: Sun Jan 28 18:28:52 +0000 2018
+           
+21:01:50.196 INFO  
+              Tweet: nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit amet risus nullam eget felis eget nunc lobortis mattis
+              Tweeted on: Sun Jan 28 18:28:35 +0000 2018
+           
+21:01:50.196 INFO  
+              Tweet: orci nulla pellentesque dignissim enim sit amet venenatis urna cursus eget nunc scelerisque viverra mauris in aliqu… https://t.co/dPpbzWpzjT
+              Tweeted on: Sun Jan 28 18:27:37 +0000 2018
+           
+21:01:50.196 INFO  
+              Tweet: mauris augue neque gravida in fermentum et sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt
+              Tweeted on: Sun Jan 28 18:26:26 +0000 2018
+           
+21:01:50.196 INFO  
+              Tweet: mauris pharetra et ultrices neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae
+              Tweeted on: Sun Jan 28 17:54:20 +0000 2018
+           
+21:01:50.196 INFO  
+              Tweet: in nisl nisi scelerisque eu ultrices vitae auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis
+              Tweeted on: Sun Jan 28 17:54:09 +0000 2018
+           
+21:01:50.196 INFO  
+              Tweet: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium
+              Tweeted on: Sun Jan 28 17:53:24 +0000 2018
+           
+21:01:50.196 INFO  
+              Tweet: At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
+              Tweeted on: Sun Jan 28 17:53:04 +0000 2018
+           
+21:01:50.196 INFO  
+              Tweet: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque molestie turpis sit amet ullamcorper tincidunt.
+              Tweeted on: Sun Jan 28 17:51:42 +0000 2018
+           
+21:01:50.196 INFO  
+              Tweet: Slack. Terrible name.
+              Tweeted on: Sun Jan 28 17:49:15 +0000 2018
+           
+21:02:01.681 INFO  
+              Tweet: mattis enim ut tellus elementum sagittis vitae et leo duis ut
+              Tweeted on Sun Jan 28 18:28:52 +0000 2018
+           
+21:02:01.681 INFO  
+              Tweet: nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit amet risus nullam eget felis eget nunc lobortis mattis
+              Tweeted on Sun Jan 28 18:28:35 +0000 2018
+           
+21:02:01.681 INFO  
+              Tweet: orci nulla pellentesque dignissim enim sit amet venenatis urna cursus eget nunc scelerisque viverra mauris in aliqu… https://t.co/dPpbzWpzjT
+              Tweeted on Sun Jan 28 18:27:37 +0000 2018
+           
+21:02:01.681 INFO  
+              Tweet: mauris augue neque gravida in fermentum et sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt
+              Tweeted on Sun Jan 28 18:26:26 +0000 2018
+           
+21:02:01.681 INFO  
+              Tweet: mauris pharetra et ultrices neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae
+              Tweeted on Sun Jan 28 17:54:20 +0000 2018
+           
+21:02:01.681 INFO  
+              Tweet: in nisl nisi scelerisque eu ultrices vitae auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis
+              Tweeted on Sun Jan 28 17:54:09 +0000 2018
+           
+21:02:01.681 INFO  
+              Tweet: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium
+              Tweeted on Sun Jan 28 17:53:24 +0000 2018
+           
+21:02:01.681 INFO  
+              Tweet: At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
+              Tweeted on Sun Jan 28 17:53:04 +0000 2018
+           
+21:02:01.681 INFO  
+              Tweet: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque molestie turpis sit amet ullamcorper tincidunt.
+              Tweeted on Sun Jan 28 17:51:42 +0000 2018
+           
+21:02:01.681 INFO  
+              Tweet: Slack. Terrible name.
+              Tweeted on Sun Jan 28 17:49:15 +0000 2018
+           
