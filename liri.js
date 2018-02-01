@@ -4,14 +4,16 @@ const keys = require("./keys.js");
 
 // take input from the command line
 var userRequest = process.argv[2];
-// there are four possible inputs:
+// there are four possible inputs for userRequest:
 // my-tweets
 // spotify-this-song
 // movie-this
 // do-what-it-says
 
+// utilize switch to run different code for each userRequest option
 switch (userRequest) {
   case "my-tweets":
+    // console logs my 20 most recent lorem ipsum tweets
     var Twitter = require("twitter");
     var client = new Twitter(keys.twitter)
     var tweets = {
