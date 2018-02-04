@@ -30,9 +30,34 @@ switch (userRequest) {
     });
     break;
   case "spotify-this-song":
-    //var spotify = new Spotify(keys.spotify);
+    var Spotify = require('node-spotify-api');
+    var spotify = new Spotify(keys.spotify);
+    var query = process.argv.slice(3).join(" ");
+
+    // if no song is provided, default to The Sign by Ace of Base
+    if (query === ""){
+      query = "The sign ace of base";
+    };
+    
+    spotify.search({
+      type: 'track',
+      query: `${query}`,
+      limit: 1
+    }, function (err, data) {
+      if (err) {
+        return console.log(`Error occurred: ${err}`);
+      } else {
+        console.log(`------------------------
+      Artist: ${data.tracks.items[0].artists[0].name}
+      Album: ${data.tracks.items[0].album.name}
+      Track name: ${data.tracks.items[0].name}
+      Preview this track: ${data.tracks.items[0].preview_url}
+------------------------`); 
+      };
+    });
     break;
   case "movie-this":
+
 
     break;
   case "do-what-it-says":
