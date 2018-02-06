@@ -5,6 +5,7 @@ var userRequest = process.argv[2];
 var query = process.argv[3];
 
 // utilize switch to run different code for each userRequest option
+// options are: 'my-tweets' 'spotify-this-song' 'movie-this' 'do-what-it-says'
 switch (userRequest) {
   case "my-tweets":
     var Twitter = require("twitter");
@@ -13,6 +14,8 @@ switch (userRequest) {
       user_id: 957671430455529474,
       count: 20
     }
+
+    // perform Twitter API call
     client.get('statuses/user_timeline', (err, tweets, response) => {
       if (err) {
         console.log(`Error occurred: ${err}`)
@@ -36,6 +39,7 @@ switch (userRequest) {
       query = "The sign ace of base";
     };
 
+    // perform Spotify API call
     spotify.search({
       type: 'track',
       query: `${query}`,
@@ -61,6 +65,7 @@ switch (userRequest) {
     };
 
     var request = require("request");
+    // perform OMBD API call with request
     request(`https://www.omdbapi.com/?t=${query}&y=&plot=short&apikey=trilogy`, function (error, response, body) {
       const json = JSON.parse(body);
       console.log(`----------------------------
@@ -75,16 +80,19 @@ switch (userRequest) {
     });
     break;
 
+  // 'do-what-it-says' executes a node liri command based on the contents of random.txt
   case "do-what-it-says":
     var fs = require("fs");
+    // npm package 'node-command-line' provides access to node within this file
     var nodeCommandLine = require('node-command-line');
 
+    // utilze fs to read the contents of random.txt
     fs.readFile('random.txt', 'utf8', function (err, data) {
       if (err) {
         console.log(`Error occurred: ${err}`)
       } else {
         nodeCommandLine.run(`node liri.js ${data.split(",")[0]} ${data.split(",")[1]}`);
-      }
+      };
     });
     break;
 
