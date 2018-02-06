@@ -18,7 +18,7 @@ Descriptions of each command follow.
 
 1. `node liri.js my-tweets`
 
-   * This will show your last 20 tweets and when they were created at in your terminal/bash window.
+   * This will show nucbc_rjp's last 20 tweets and when they were created in your terminal/bash window.
 
 2. `node liri.js spotify-this-song '<song name here>'`
 
@@ -52,7 +52,5 @@ Descriptions of each command follow.
    * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
 4. `node liri.js do-what-it-says`
-   
-   * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
      
-     * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
+     * this defaults to run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
