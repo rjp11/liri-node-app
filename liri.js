@@ -14,13 +14,16 @@ switch (userRequest) {
       count: 20
     }
     client.get('statuses/user_timeline', (err, tweets, response) => {
-      if (err) log.info(`Error occurred: ${err}`);
-      tweets.forEach(function (element) {
-        console.log(`----------------------------
+      if (err) {
+        console.log(`Error occurred: ${err}`)
+      } else {
+        tweets.forEach(function (element) {
+          console.log(`----------------------------
         nucbc_rjp Tweet: ${element.text}
               Tweeted on: ${element.created_at}
 ----------------------------`);
-      });
+        });
+      };
     });
     break;
 
@@ -70,11 +73,19 @@ switch (userRequest) {
     Starring: ${json.Actors}
 ----------------------------`);
     });
-
     break;
 
   case "do-what-it-says":
+    var fs = require("fs");
+    var nodeCommandLine = require('node-command-line');
 
+    fs.readFile('random.txt', 'utf8', function (err, data) {
+      if (err) {
+        console.log(`Error occurred: ${err}`)
+      } else {
+        nodeCommandLine.run(`node liri.js ${data.split(",")[0]} ${data.split(",")[1]}`);
+      }
+    });
     break;
 
   default:
